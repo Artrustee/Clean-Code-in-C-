@@ -366,44 +366,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jason\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\22.1.34\\ToolboxNuGetPackages": {}
+    "C:\\Users\\76493\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
       "projectName": "CH05_MSTestUnitTesting.Tests",
-      "projectPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
-      "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\obj\\",
+      "projectPath": "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
+      "packagesPath": "C:\\Users\\76493\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\22.1.34\\ToolboxNuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\76493\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\MAUI\\22.1.34\\MAUI\\nuget": {},
-        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\22.1.34\\NuGetPackages": {},
+        "http://gitlab.roboticplus.com:2023/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
-              "projectPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
+            "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
+              "projectPath": "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
             }
           }
         }
@@ -437,5 +433,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://gitlab.roboticplus.com:2023/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

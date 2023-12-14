@@ -1,15 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "wBpeA89ySKWIOZeolPBN5Z7uh4qw2NjjhW6HI7grAtfoYVsluth3hClwdPB4TF3Qm/D4dxWliwRTxWl9yGSEcw==",
+  "dgSpecHash": "8t+OcAxYTwucEUa46acc7ETVENFzQ/jmQMCnJsDYagclQCYDPTbQqw/DPQh3tYKcYevDKACVunHplJCgumj5nQ==",
   "success": true,
-  "projectFilePath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
+  "projectFilePath": "C:\\Users\\76493\\Desktop\\Robotic+\\@repo\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jason\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\moq\\4.13.1\\moq.4.13.1.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512"
+    "C:\\Users\\76493\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\76493\\.nuget\\packages\\moq\\4.13.1\\moq.4.13.1.nupkg.sha512",
+    "C:\\Users\\76493\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\76493\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\76493\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\76493\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://gitlab.roboticplus.com:2023/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
