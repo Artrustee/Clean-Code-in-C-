@@ -96,3 +96,17 @@ D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.sourcelink.json
 D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
 D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
 D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.sourcelink.json
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+C:\Users\76493\Desktop\Robotic+\@repo\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache

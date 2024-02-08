@@ -10,7 +10,8 @@ namespace CH3
         static void Main(string[] args)
         {
             var program = new Program();
-            program.InterfaceOrientedProgrammingExample();
+            //program.InterfaceOrientedProgrammingExample();
+            program.InversionOfControl();
         }
 
         private void InterfaceOrientedProgrammingExample()
